@@ -26,6 +26,7 @@ public class HexagonGenerator : MonoBehaviour
         {
             for (int z = 0; z <= mapHeight; z++)
             {
+                // instantiër Hexagons 
                 GameObject Hexagons = Instantiate(Hexagon);
                 if (z % 2 == 0)
                 {
@@ -39,7 +40,7 @@ public class HexagonGenerator : MonoBehaviour
             }
         }
     }
-
+    // zet Hexagon's in parent met TileInfo
     void SetTileInfo(GameObject gameobject, int x, int z)
     {
         gameobject.transform.parent = transform;
