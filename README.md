@@ -44,8 +44,8 @@ woensdag: documentatie afronden en opdracht inleveren
 
 
 Dit is de planning voor de Hexagon map Generator opdracht.
-ik heb de planning niet gevolgd. 
-Ik heb de opdracht namenlijk in 1 dag gemaakt en ik heb in 1 dag de documentatie gemaakt.
+Ik heb de planning niet gevolgd. 
+Ik heb de opdracht namenlijk in 1 dag afgerond en ik heb in 1 dag de documentatie afgerond.
 
 
 # Bronnen lijst:
